@@ -51,6 +51,6 @@ GENERAL SKILLS</h2>
 
 <details>
   <summary> Github Stats </summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=kavvadas&show_icons=true&theme=tokyonight&hide=contribs,prs" alt="kavvadas Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kavvadas" alt="kavvadas Github Stats" />
     
 </details>
