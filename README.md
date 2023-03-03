@@ -44,7 +44,6 @@ GENERAL SKILLS</h2>
 <p align="center"> 
 <a href="https://twitter.com/kavvadaas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://https://twitter.com/kavvadaas" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/dimitris-kavvadas-47342a235/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dimitris kavvadas" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/14196193/zaaachos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14196193/zaaachos" height="30" width="30" /></a>
 <a href="https://www.facebook.com/mhtsoskb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mhtsoskb" height="30" width="30" /></a>
 <a href="https://www.instagram.com/mhtsos_kb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/mhtsos_kb/" height="30" width="30" /></a>
 </p>
