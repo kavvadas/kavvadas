@@ -12,14 +12,14 @@ GENERAL SKILLS</h2>
 <h4>  • Experienced </h4>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
 <h4>  • Familiar </h4>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="cplusplus" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
 <h3> LIBRARIES/FRAMEWORKS </h3>
 <p>
