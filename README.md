@@ -38,7 +38,9 @@ GENERAL SKILLS</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 </p>
-  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://camo.githubusercontent.com/50995e41bca0dbd92a0d13828d0808e5ee5d59232a2183332dcdfc099fa6df56/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5061706167656f7267696f754d6172696f73266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavvadas&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
+</a>  
 
 
 <h2 align="center"> You can find me in: </h2>
