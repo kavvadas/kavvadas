@@ -28,6 +28,8 @@ GENERAL SKILLS</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   matplotlib, scikit-learn
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" alt="sdl" width="40" height="40"/>
 </p>
 <h3> TOOLS/PLATFORMS </h3>
 <p>
