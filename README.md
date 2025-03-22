@@ -1,5 +1,5 @@
 <h2 align="center">I'm an undergraduate student majoring in CS(AUEB).
-<br> I am interested in full stack software development. AI, Machine Learning, DB Systems are secondary skills that I want to master.
+<br> Interested in Software Engineer. AI, Machine Learning are secondary skills that I want to master.
 <br>
 <br>
 GENERAL SKILLS</h2>
