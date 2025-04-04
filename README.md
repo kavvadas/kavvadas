@@ -2,6 +2,9 @@
 <br> Interested in Software Engineer!
 <br>
 GENERAL SKILLS</h2>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1;">
 <h3> PROGRAMMING LANGUAGES </h3>
 <h4> • Connoisseur </h4>
 <p>
@@ -19,6 +22,10 @@ GENERAL SKILLS</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="40" height="40"/>
 </p>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="AI-generated lofi computer science image" style="max-width: 100%; height: auto;"/>
+  </div>
+</div>
 <h3> LIBRARIES/FRAMEWORKS </h3>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
