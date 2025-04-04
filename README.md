@@ -23,7 +23,8 @@ GENERAL SKILLS</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="40" height="40"/>
 </p>
   <div style="flex: 1; text-align: right;">
-    <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="AI-generated lofi computer science image" style="max-width: 100%; height: auto;"/>
+    <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="AI-generated lofi computer science image" align="right" style="max-width: 50%; height: auto;"/>
+
   </div>
 </div>
 <h3> LIBRARIES/FRAMEWORKS </h3>
