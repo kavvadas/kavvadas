@@ -4,7 +4,7 @@
 <br>
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; text-align: right;">
-    <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="AI-generated lofi computer science image" align="right" style="max-width: 50%; height: auto; width: 480px; height: 480px;"/>
+    <img src="https://media.tenor.com/Yssl2_AjV-QAAAAC/lofi-art.gif" alt="image" align="right" style="max-width: 50%; height: auto; width: 480px; height: 480px;"/>
 
   </div>
   <div style="flex: 1;">
