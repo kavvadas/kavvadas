@@ -1,15 +1,13 @@
 <h2 align="center">I'm an undergraduate student majoring in CS(AUEB).
 <br> Interested in Software Engineer!
 <br>
-GENERAL SKILLS</h2>
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; text-align: right;">
-    <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="AI-generated lofi computer science image" align="right" style="max-width: 50%; height: auto; width: 320px; height: 320px;"/>
+    <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="AI-generated lofi computer science image" align="right" style="max-width: 50%; height: auto; width: 460px; height: 460px;"/>
 
   </div>
   <div style="flex: 1;">
-<h3> PROGRAMMING LANGUAGES </h3>
 <h4> • Connoisseur </h4>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
