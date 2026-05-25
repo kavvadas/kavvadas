@@ -16,7 +16,7 @@ Building scalable systems, APIs, and practical software solutions
 
 <p align="center">
   <a href="https://media.tenor.com/Yssl2_AjV-QAAAAC/lofi-art.gif">
-    <img src="https://i.imgur.com/your-preview-image.png" width="300"/>
+    <img src="https://media.tenor.com/Yssl2_AjV-QAAAAC/lofi-art.gif" width="300"/>
   </a>
 </p>
 
