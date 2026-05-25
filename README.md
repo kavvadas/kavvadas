@@ -34,7 +34,7 @@ Aspiring Software Engineer | Passionate about building efficient and scalable sy
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 </p>
 
 ### 🧰 Frameworks & Libraries
@@ -46,10 +46,16 @@ Aspiring Software Engineer | Passionate about building efficient and scalable sy
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdl/sdl-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> + BeautifulSoup </p>
 </p>
 
-### ⚙️ Tools & Platforms
+<p align="center">
+🐍 BeautifulSoup (Python Web Scraping Library)
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
@@ -64,7 +70,7 @@ Aspiring Software Engineer | Passionate about building efficient and scalable sy
 ## 📊 GitHub Stats
 
 <p align="center">
-![GitHub Activity](https://ghchart.rshah.org/kavvadas)
+  <img src="https://ghchart.rshah.org/kavvadas" />
 </p>
 
 ---
