@@ -1,27 +1,40 @@
 <h1 align="center">Hi, I'm Dimitris Kavvadas 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;FastAPI+%7C+SQLAlchemy+%7C+System+Design;Always+learning+and+building" />
+</p>
+
 <h3 align="center">
-Computer Science Graduate — Athens University of Economics and Business
+Software Engineer | Backend & Systems | Computer Science Graduate
 </h3>
 
 <p align="center">
-Aspiring Software Engineer | Passionate about building efficient and scalable systems
+Building scalable systems, APIs, and practical software solutions
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/Yssl2_AjV-QAAAAC/lofi-art.gif" width="320"/>
+  <img src="https://media.tenor.com/Yssl2_AjV-QAAAAC/lofi-art.gif" width="300"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Profile Summary
 
-- 🎓 Computer Science graduate from Athens University of Economics and Business  
-- 💻 Focused on Software Engineering, Backend Systems, and Scalable Applications  
-- 🧩 Interested in system design, APIs, and clean architecture  
-- 🚀 Constantly improving and building real-world projects  
+Computer Science graduate focused on **backend development, APIs, and system design**.  
+I enjoy building **clean, scalable, and production-oriented software systems**.
+
+---
+
+## ⚙️ Current Focus
+
+- ⚡ FastAPI backend development  
+- 🗄️ SQL & database design (SQLAlchemy, MariaDB)  
+- 🧩 System design & architecture fundamentals  
+- 🐳 Dockerized applications & deployment workflows  
+- 🌐 Web scraping & automation (BeautifulSoup)  
+- 🔧 Writing maintainable, production-ready code  
 
 ---
 
@@ -31,63 +44,46 @@ Aspiring Software Engineer | Passionate about building efficient and scalable sy
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 </p>
 
-### 🧰 Frameworks & Libraries
+---
+
+### 🧰 Backend & Data
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdl/sdl-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="45"/>
-</p>
-
-<p align="center">
-🐍 BeautifulSoup (Python Web Scraping Library)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+  🐍 BeautifulSoup — Web Scraping
 </p>
 
 ---
 
-## ⚙️ Tools & Platforms
-
+### ⚙️ DevOps & Tools
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="45"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/kavvadas" />
-</p>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dimitris-kavvadas-47342a235/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/mhtsoskb">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kavvadas.dim/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/>
+</p>
+<p align="center">
+  <a href="mailto:kabbadasd@gmail.com">
+    <img src="https://img.shields.io/badge/email-kabbadasd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
