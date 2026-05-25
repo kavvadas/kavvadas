@@ -1,57 +1,98 @@
-*<h5 align="center"> Hey I am Dimitris Kavvadas. Undergraduate student of Athens University of Economics and Business majoring in Computer Science.</h5>*
-**<h5 align="center"> Interested in Software Engineer.</h5>**
+<h1 align="center">Hi, I'm Dimitris Kavvadas 👋</h1>
 
-<br>
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; text-align: right;">
-    <img src="https://media.tenor.com/Yssl2_AjV-QAAAAC/lofi-art.gif" alt="image" align="right" style="max-width: 50%; height: auto; width: 480px; height: 480px;"/>
+<h3 align="center">
+Computer Science Graduate — Athens University of Economics and Business
+</h3>
 
-  </div>
-  <div style="flex: 1;">
-    
-<h5> • Connoisseur </h4>
+<p align="center">
+Aspiring Software Engineer | Passionate about building efficient and scalable systems
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/Yssl2_AjV-QAAAAC/lofi-art.gif" width="320"/>
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 Computer Science graduate from Athens University of Economics and Business  
+- 💻 Focused on Software Engineering, Backend Systems, and Scalable Applications  
+- 🧩 Interested in system design, APIs, and clean architecture  
+- 🚀 Constantly improving and building real-world projects  
+
+---
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Languages
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
-<h5>  • Experienced </h4>
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
-<h5>  • Familiar </h4>
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="40" height="40"/>
-</p>
-</div>
-<h5> Libraries/Frameworks </h3>
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" alt="sdl" width="40" height="40"/>
-</p>
-<h5> Tools/Platforms </h3>
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" alt="maridb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 </p>
 
+### 🧰 Frameworks & Libraries
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdl/sdl-original.svg" width="45"/>
 
-
-<h6 align="center"> You can find me in: </h2>
-<p align="center"> 
-<a href="https://www.linkedin.com/in/dimitris-kavvadas-47342a235/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dimitris kavvadas" height="30" width="30" /></a>
-<a href="https://www.facebook.com/mhtsoskb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mhtsoskb" height="30" width="30" /></a>
-<a href="https://www.instagram.com/kavvadas.dim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/mhtsos_kb/" height="30" width="30" /></a>
+  <!-- Backend / Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg" width="45"/>
 </p>
 
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavvadas&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavvadas&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dimitris-kavvadas-47342a235/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/mhtsoskb">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/kavvadas.dim/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ Always learning, always building.
+</p>
