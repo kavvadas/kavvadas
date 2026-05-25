@@ -44,11 +44,9 @@ Aspiring Software Engineer | Passionate about building efficient and scalable sy
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdl/sdl-original.svg" width="45"/>
-
-  <!-- Backend / Web -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> + BeautifulSoup </p>
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -66,11 +64,7 @@ Aspiring Software Engineer | Passionate about building efficient and scalable sy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavvadas&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavvadas&layout=compact" />
+![GitHub Activity](https://ghchart.rshah.org/kavvadas)
 </p>
 
 ---
