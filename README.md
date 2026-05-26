@@ -77,7 +77,7 @@ I enjoy building **clean, scalable, and production-oriented software systems**.
 ## 🌐 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dimitris-kavvadas-47342a235/">
+  <a href="https://www.linkedin.com/in/dimitris-kavvadas-47342a235/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
