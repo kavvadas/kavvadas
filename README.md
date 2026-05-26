@@ -30,7 +30,7 @@ I enjoy building **clean, scalable, and production-oriented software systems**.
 ## ⚙️ Current Focus
 
 - ⚡ FastAPI backend development  
-- 🗄️ SQL & database design (SQLAlchemy, MariaDB)  
+- 🗄️ SQL & database design (SQLAlchemy, MariaDB, PostgreSQL)  
 - 🧩 System design & architecture fundamentals  
 - 🐳 Dockerized applications & deployment workflows  
 - 🌐 Web scraping & automation (BeautifulSoup)  
