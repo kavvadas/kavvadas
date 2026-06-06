@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Dimitris Kavvadas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;FastAPI+%7C+SQLAlchemy+%7C+System+Design;Always+learning+and+building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Backend+Developer;FastAPI+%7C+SQLAlchemy+%7C+System+Design;Always+learning+and+building" />
 </p>
 
 <h3 align="center">
-Software Engineer | Backend & Systems | Computer Science Graduate
+Junior Software Engineer | Backend & Systems | Computer Science Graduate
 </h3>
 
 <p align="center">
